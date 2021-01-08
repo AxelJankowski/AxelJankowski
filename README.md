@@ -1,4 +1,4 @@
-# Yo, my name's Axel 🐢
+# no szej 🐢
 I build websites. I currently work as junior fullstack developer at [Massive Pixel Creation](https://massivepixel.io/).
 
 ## How to reach me 📫
