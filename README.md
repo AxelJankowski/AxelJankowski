@@ -1,5 +1,5 @@
 # no szej 🐢
-I build websites. I currently work as junior fullstack developer at [Massive Pixel Creation](https://massivepixel.io/).
+Fullstack developer at [Massive Pixel Creation](https://massivepixel.io/).
 
 ## How to reach me 📫
 [<img align="left" alt="axeljankowski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
