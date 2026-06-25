@@ -1,28 +1,25 @@
-# no szej 🐢
-Fullstack developer at [Massive Pixel Creation](https://massivepixel.io/).
+# 👋 Hi, I'm Axel
 
-## How to reach me 📫
-[<img align="left" alt="axeljankowski.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Axel Jankowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Software engineer building products with Flutter, Laravel and JavaScript.
 
+---
 
+### 🚗 Currently building
 
-[website]: https://axeljankowski.github.io/
-[linkedin]: https://www.linkedin.com/in/axel-jankowski-941ab5183/
+**Hunto** — Find what others miss.
 
+AI-powered marketplace monitoring for car enthusiasts.
 
+🌐 https://hunto.it
 
-<!--
-**AxelJankowski/AxelJankowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack developer at [Massive Pixel Creation](https://massivepixel.io/).
+
+---
+
+## 📫 Connect
+
+[🌍 Website](https://axeljankowski.github.io/) • [💼 LinkedIn](https://www.linkedin.com/in/axel-jankowski/)
